@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi, I'm Giulio Pettenò
 
-<!--
-**giuliopetteno/giuliopetteno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java Backend Engineer focused on event-driven architectures and cloud-native systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Radio Ecosystem project
+> **🚧 Work in Progress**
+>
+
+A set of Java backend microservices for managing medical imaging devices, built around an event-driven architecture with Apache Kafka, containerized with Docker and Docker Compose, and deployed on Amazon Web Services (AWS).
+
+- [radio-registry](https://github.com/giuliopetteno/radio-registry) — Java backend microservice for managing medical imaging devices and publishing domain events via Apache Kafka
+- [radio-analytics](https://github.com/giuliopetteno/radio-analytics) — Kafka-based analytics Java microservice providing observability alongside operational and business insights
+- [radio-infra](https://github.com/giuliopetteno/radio-infra) — Orchestration and deployment repository
+
+---
+
+### Get in touch
+
+- [LinkedIn](https://www.linkedin.com/in/giulio-petten%C3%B2-132486113/)
