@@ -12,7 +12,7 @@ A set of Java backend microservices for managing medical imaging devices, built 
 
 - [radio-registry](https://github.com/giuliopetteno/radio-registry) — Java backend microservice for managing medical imaging devices and publishing domain events via Apache Kafka
 - [radio-analytics](https://github.com/giuliopetteno/radio-analytics) — Java microservice consuming Kafka events to provide observability alongside operational and business insights
-- [radio-infra](https://github.com/giuliopetteno/radio-infra) — Orchestration and deployment repository
+- [radio-infra](https://github.com/giuliopetteno/radio-infra) — Orchestration, observability, and deployment repository
 
 ---
 
